@@ -28,3 +28,4 @@ while True:
     except ValueError:
         # Si el usuario ingresa un valor no entero
         print("Debe ingresar números enteros válidos.")
+        

@@ -24,3 +24,4 @@ while True:
         print("Ocurrio un error, favor ingresar un valor numerico")
     finally:
         intentos += 1
+        

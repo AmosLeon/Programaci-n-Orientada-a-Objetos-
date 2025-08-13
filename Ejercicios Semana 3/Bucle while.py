@@ -16,3 +16,4 @@ while not detener: # Evaluamos la condicion utilizando el operador not para nega
         pass 
     else: 
         print("Favor ingresar una opcion valida")
+        
