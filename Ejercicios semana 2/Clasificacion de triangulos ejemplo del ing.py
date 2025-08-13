@@ -25,3 +25,4 @@ while True:
             print("Los datos de un triangulo deben ser positivos")
     except:
         print("Ocurrio un error, favor ingresar datos numericos")
+        
