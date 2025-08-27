@@ -28,7 +28,7 @@ class CuentaBancaria:
 cuenta = CuentaBancaria("Amos", 100)    # Saldo inicial 
 
 cuenta.mostrar_saldo()
-cuenta .depositar(50)    # Deposito valido
+cuenta.depositar(50)    # Deposito valido
 
 cuenta.retirar(30)   # Retiro valido
 cuenta.retirar(150)  # Retiro invalido, fondos insuficientes
