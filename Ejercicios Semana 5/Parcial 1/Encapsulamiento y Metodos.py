@@ -31,4 +31,4 @@ cuenta.mostrar_saldo()
 cuenta .depositar(50)    # Deposito valido
 
 cuenta.retirar(30)   # Retiro valido
-cuenta.retirar(150)  # Retiro invalido por fondos insuficientes
+cuenta.retirar(150)  # Retiro invalido, fondos insuficientes
