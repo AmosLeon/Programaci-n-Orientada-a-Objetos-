@@ -37,7 +37,7 @@ class Perro(Animal):
 
 class Gato(Animal):
 
-     # atributos
+    # atributos
     def __init__(self, nombre, edad, genero):
         super().__init__(nombre, edad, genero)
 

@@ -1,0 +1,18 @@
+        /* Selector de etiquetas */
+        body {
+            /* Propiedades y valores */
+            background-color: honeydew;
+            display: grid;
+            margin: 15px;
+            padding: 10px;
+        }
+
+        /* Selector de clases */
+        .icono-principal {
+            width: 150px;
+        }
+
+        /* Selector de ID */
+        #python-snake {
+            width: 200px;
+        }
